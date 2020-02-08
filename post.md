@@ -1,6 +1,2 @@
-# Blog Post
-## Blog Post TEST
-## My first Blog Post
-* Post1
-* Post2
-* Post3
+# 스터디 공유
+** https://github.com/abts2002/BSJW_STUDY/
